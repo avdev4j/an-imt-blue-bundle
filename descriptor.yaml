@@ -1,0 +1,6 @@
+code: an-imt-blue-bundle
+description: Template for ent projects
+components:
+  widgets:
+    - ui/widgets/widgets-dir/an-imt-react-widget/an-imt-react-widget-descriptor.yaml
+
